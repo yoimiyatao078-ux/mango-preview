@@ -1,0 +1,41 @@
+1:"$Sreact.fragment"
+2:"/mango-preview/_next/static/chunks/0b3_zolmp12e1.js"
+3:"/mango-preview/_next/static/chunks/0z8q0cjforvyi.js"
+4:"/mango-preview/_next/static/chunks/1c-b81v2usb8y.js"
+5:I[39571,["$2","$3","$4"],"CartProvider"]
+6:I[13293,["$2","$3","$4"],"Header"]
+7:I[39756,["$2","$3","$4"],"default"]
+8:I[37457,["$2","$3","$4"],"default"]
+9:I[22016,["$2","$3","$4"],""]
+a:I[37228,["$2","$3","$4"],"CartDrawer"]
+11:"/mango-preview/_next/static/chunks/3xk6jqqqwnyms.js"
+12:I[60103,["$2","$3","$4","$11"],"CartLines"]
+13:I[73646,["$2","$3","$4","$11"],"CartSummary"]
+14:I[97367,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$2","$3","$4"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3","$4"],"$1a"]
+:HL["/mango-preview/_next/static/chunks/2g4216959676j.css","style"]
+c:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"wrap","children":[["$","h1",null,{"className":"h2","style":{"marginBottom":16},"children":"Handlekurv"}],["$","div",null,{"className":"cartpage","children":[["$","div",null,{"className":"panel","children":["$","$L12",null,{}]}],["$","$L13",null,{}]]}]]}],[["$","script","script-0",{"src":"/mango-preview/_next/static/chunks/3xk6jqqqwnyms.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$c"}}]]
+d:[["children",{"s":"handlekurv","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mango-preview/_next/static/chunks/2g4216959676j.css","precedence":"next"}],["$","script","script-0",{"src":"/mango-preview/_next/static/chunks/0b3_zolmp12e1.js","async":true}],["$","script","script-1",{"src":"/mango-preview/_next/static/chunks/0z8q0cjforvyi.js","async":true}],["$","script","script-2",{"src":"/mango-preview/_next/static/chunks/1c-b81v2usb8y.js","async":true}]],["$","html",null,{"lang":"nb","className":"PeYtvG_variable Ryg3vW_variable","children":["$","body",null,{"children":["$","$L5",null,{"children":[["$","a",null,{"href":"#innhold","className":"vh","children":"Hopp til innhold"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Store\",\"url\":\"https://yoimiyatao078-ux.github.io/mango-preview\",\"logo\":\"https://yoimiyatao078-ux.github.io/mango-preview/logo.svg\",\"name\":\"MANGO MAT STJERN\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Ivar Lykkes veg 4\",\"postalCode\":\"7075\",\"addressLocality\":\"Tiller\",\"addressCountry\":\"NO\"},\"openingHours\":[\"Mo-Fr 09:00-21:00\",\"Sa 10:00-20:00\"]}"}}],["$","$L6",null,{"total":273}],["$","main",null,{"id":"innhold","children":["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}],"notFound":[["$","div",null,{"className":"wrap","style":{"maxWidth":560},"children":["$","div",null,{"className":"empty","children":[["$","p",null,{"className":"d","children":"Denne hylla er tom."}],["$","p",null,{"children":"Siden finnes ikke, men snacksen gjør det."}],["$","$L9",null,{"className":"btn p","href":"/","children":"Til forsiden"}]]}]}],[]]}]}],["$","footer",null,{"className":"site","children":["$","div",null,{"className":"ft","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Mango i Tiller"}],["$","p",null,{"children":"Snacks, godteri og mat fra Korea, Japan, Thailand og Polen. Hent i butikken eller få det levert i Trondheim."}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Handle"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L9",null,{"href":"/kategori/alle","children":"Alle varer"}]}],["$","li",null,{"children":["$","$L9",null,{"href":"/kategori/alle?sort=nyheter","children":"Nytt og viralt"}]}],["$","li",null,{"children":["$","$L9",null,{"href":"/handlekurv","children":"Handlekurv"}]}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Butikken"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L9",null,{"href":"/om-oss","children":"Om butikken og åpningstider"}]}],["$","li",null,{"children":["$","$L9",null,{"href":"/om-oss#finn-oss","children":"Finn oss i Tiller"}]}]]}],["$","p",null,{"className":"small","style":{"marginTop":12},"children":["MANGO MAT STJERN, Ivar Lykkes veg 4, 7075 Tiller.",["$","br",null,{}],"Man–fre 09–21, lør 10–20, søn stengt."]}],["$","p",null,{"className":"small","style":{"marginTop":8},"children":"Forhåndsvisning. Demo-butikk. Ingen ekte betaling. Allergeninfo er eksempeldata."}]]}]]}]}],["$","$La",null,{}]]}]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#2B1340"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Handlekurv – Mango"}],["$","meta","1",{"name":"description","content":"Virale snacks, koreanske nudler, japansk godteri og polske favoritter. Hent i butikken i Tiller eller få det levert."}],["$","meta","2",{"name":"application-name","content":"Mango"}],["$","meta","3",{"name":"keywords","content":"snacks,godteri,koreanske nudler,buldak,ramune,polsk mat,Tiller,Trondheim,asiatisk mat"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","link","5",{"rel":"canonical","href":"https://yoimiyatao078-ux.github.io/mango-preview/"}],["$","meta","6",{"property":"og:title","content":"Mango – snacks, godteri og asiatisk mat i Tiller"}],["$","meta","7",{"property":"og:description","content":"Virale snacks, koreanske nudler, japansk godteri og polske favoritter. Hent i Tiller eller få det levert."}],["$","meta","8",{"property":"og:site_name","content":"Mango"}],["$","meta","9",{"property":"og:locale","content":"nb_NO"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],"$L1c","$L1d","$L1e","$L1f"]}]}],null]}],"$L20"]}],"p":"$@21","v":null,"s":"$c"}},"a":"$@22","u":"$@23","b":"mjUhWQucXWOEeq6ZGl66h"}
+24:I[27201,["$2","$3","$4"],"IconMark"]
+16:null
+1c:["$","meta","12",{"name":"twitter:title","content":"Mango – snacks, godteri og asiatisk mat i Tiller"}]
+1d:["$","meta","13",{"name":"twitter:description","content":"Virale snacks, koreanske nudler, japansk godteri og polske favoritter. Hent i Tiller eller få det levert."}]
+1e:["$","link","14",{"rel":"icon","href":"/mango-preview/logo.svg"}]
+1f:["$","$L24","15",{}]
+20:["$","meta",null,{"name":"next-size-adjust","content":""}]
+c:300
+23:true
+c:C
+22:0
+e:"$undefined"
+b:"$undefined"
+21:"$undefined"
+17:"$undefined"
